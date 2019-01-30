@@ -7,6 +7,4 @@ public class mainPage {
         System.out.println("this is first code");
 
     }
-
-
 }
